@@ -1,1 +1,12 @@
+body {
+    background: #C8C6C6;
+    font-family: Montserrat;
+    color: #4B6587
+    
+}
 
+img {
+    float: right;
+    border: solid 5px;
+    border-color: #4B6587;
+}
